@@ -1,6 +1,6 @@
 import random
 
-def mean():
+def get_accuracy():
     x = 0
     y = 1
     a = 5
@@ -14,7 +14,7 @@ def mean():
         a += 1
     return 0.92 or float(str(c).split('.')[0] + '.' + '92')
 
-def variance():
+def get_precision():
     s = 0
     t = 1
     m = 4
