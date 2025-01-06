@@ -1,0 +1,501 @@
+customer_id,criminal_record_flag,legal_penalties_amount,education_level,residential_status,years_at_current_address,family_size,spouse_income,social_score,peer_group_category
+CUST000001,No,0,PhD,Rent,19,8,0,306.91,Middle-Income
+CUST000002,Yes,4360.85,Associate,Rent,11,4,92659.13,332.35,High-Income
+CUST000003,No,0,Bachelor's,Own,21,9,0,757.74,Low-Income
+CUST000004,No,0,Bachelor's,Own,12,1,0,845.62,Middle-Income
+CUST000005,No,0,High School,Rent,13,2,38578.51,374.43,High-Income
+CUST000006,Yes,1568.31,Associate,Rent,29,3,0,684.67,High-Income
+CUST000007,No,0,High School,Rent,10,10,0,385.15,Low-Income
+CUST000008,Yes,4237.25,High School,Own,20,1,0,770.03,Middle-Income
+CUST000009,Yes,5425.15,High School,Rent,16,3,0,742.8,High-Income
+CUST000010,Yes,778.3,Bachelor's,Rent,14,7,0,613.44,High-Income
+CUST000011,No,0,Bachelor's,Own,30,9,33474.49,750.82,Middle-Income
+CUST000012,Yes,5059.94,PhD,Own,7,2,0,410.97,Middle-Income
+CUST000013,No,0,High School,Rent,24,5,0,331.9,Middle-Income
+CUST000014,Yes,9684.48,Bachelor's,Rent,26,6,0,493.0,High-Income
+CUST000015,Yes,6742.95,Master's,Rent,5,6,0,506.29,High-Income
+CUST000016,Yes,2710.71,Bachelor's,Own,9,3,35781.98,712.7,Low-Income
+CUST000017,Yes,269.08,PhD,Own,22,5,0,523.0,Low-Income
+CUST000018,Yes,1430.81,Bachelor's,Rent,30,3,51265.74,727.31,Low-Income
+CUST000019,No,0,High School,Own,12,5,79447.06,510.34,High-Income
+CUST000020,Yes,5004.53,Master's,Own,26,1,48712.9,666.89,High-Income
+CUST000021,No,0,PhD,Own,11,7,0,808.37,Middle-Income
+CUST000022,Yes,1720.05,PhD,Rent,8,3,0,664.79,Low-Income
+CUST000023,Yes,5139.24,Master's,Rent,22,10,0,795.79,Low-Income
+CUST000024,No,0,High School,Rent,7,8,39275.48,530.74,High-Income
+CUST000025,Yes,7156.9,High School,Rent,4,8,0,482.05,Low-Income
+CUST000026,Yes,7748.72,Bachelor's,Own,29,1,0,836.35,Middle-Income
+CUST000027,No,0,Bachelor's,Own,23,3,49730.0,600.14,Low-Income
+CUST000028,Yes,9312.75,Bachelor's,Own,30,8,0,438.24,Middle-Income
+CUST000029,Yes,4636.43,High School,Own,21,5,67180.76,369.47,High-Income
+CUST000030,Yes,5038.15,Associate,Rent,29,10,34240.33,757.71,Middle-Income
+CUST000031,No,0,Associate,Own,27,3,89483.13,694.12,High-Income
+CUST000032,No,0,High School,Own,20,2,29020.57,704.68,High-Income
+CUST000033,No,0,High School,Rent,5,10,52191.75,693.29,Low-Income
+CUST000034,No,0,Bachelor's,Rent,21,2,85067.25,500.0,High-Income
+CUST000035,No,0,Master's,Own,29,1,62070.81,657.91,High-Income
+CUST000036,No,0,High School,Rent,13,9,87859.39,784.35,Middle-Income
+CUST000037,Yes,8746.31,High School,Rent,29,8,0,479.22,Low-Income
+CUST000038,Yes,4964.7,Master's,Rent,18,5,0,627.77,High-Income
+CUST000039,Yes,8744.34,PhD,Rent,19,8,0,508.47,High-Income
+CUST000040,Yes,2278.16,Master's,Own,8,5,56645.78,449.16,High-Income
+CUST000041,Yes,4888.25,High School,Rent,15,4,0,438.1,High-Income
+CUST000042,No,0,Master's,Rent,25,10,59684.04,437.55,Low-Income
+CUST000043,No,0,Bachelor's,Own,6,8,0,581.87,Middle-Income
+CUST000044,Yes,998.59,Associate,Own,14,10,45767.54,775.67,Middle-Income
+CUST000045,Yes,3786.21,Master's,Rent,29,10,0,451.83,Middle-Income
+CUST000046,No,0,PhD,Own,20,7,99943.65,525.27,Middle-Income
+CUST000047,Yes,5777.29,Master's,Own,5,3,92734.12,351.26,High-Income
+CUST000048,No,0,Master's,Own,4,7,0,690.49,High-Income
+CUST000049,Yes,2510.73,Associate,Own,10,5,0,377.03,Low-Income
+CUST000050,Yes,7201.38,Bachelor's,Own,9,8,42079.32,610.67,Low-Income
+CUST000051,No,0,PhD,Rent,4,2,0,770.7,Low-Income
+CUST000052,No,0,Associate,Rent,22,7,0,545.53,Low-Income
+CUST000053,Yes,5168.67,Master's,Own,8,8,78864.88,796.49,Middle-Income
+CUST000054,No,0,Associate,Own,20,8,90434.49,320.38,Low-Income
+CUST000055,No,0,Associate,Own,5,10,61765.16,765.99,Middle-Income
+CUST000056,No,0,PhD,Rent,14,8,0,648.46,Low-Income
+CUST000057,Yes,5615.61,Master's,Rent,17,7,0,742.91,Low-Income
+CUST000058,Yes,5355.09,PhD,Own,12,7,69022.19,478.69,High-Income
+CUST000059,No,0,High School,Own,12,3,0,309.85,Low-Income
+CUST000060,Yes,9344.78,PhD,Rent,21,1,21796.77,683.94,Middle-Income
+CUST000061,No,0,PhD,Own,26,1,99465.85,776.65,High-Income
+CUST000062,Yes,7500.7,Bachelor's,Own,27,8,0,807.8,High-Income
+CUST000063,No,0,PhD,Own,23,9,0,522.94,High-Income
+CUST000064,No,0,Master's,Rent,30,4,73260.35,652.24,High-Income
+CUST000065,No,0,Bachelor's,Own,1,9,88081.5,785.11,Low-Income
+CUST000066,No,0,PhD,Own,25,5,0,502.78,Low-Income
+CUST000067,Yes,7551.69,Master's,Own,29,5,0,605.91,High-Income
+CUST000068,No,0,Master's,Own,5,10,86476.24,528.65,Middle-Income
+CUST000069,Yes,7034.45,Master's,Own,25,2,41732.24,682.04,Low-Income
+CUST000070,Yes,798.84,PhD,Rent,22,4,0,307.91,High-Income
+CUST000071,No,0,Associate,Rent,25,9,84551.56,301.83,Low-Income
+CUST000072,Yes,5919.64,Bachelor's,Own,6,7,0,659.27,Middle-Income
+CUST000073,Yes,1797.23,Master's,Own,23,6,0,328.15,High-Income
+CUST000074,Yes,539.61,Associate,Rent,24,2,75620.21,814.86,Low-Income
+CUST000075,No,0,Master's,Rent,8,5,0,702.78,High-Income
+CUST000076,Yes,9094.34,PhD,Rent,7,6,0,430.85,Middle-Income
+CUST000077,No,0,PhD,Rent,20,5,27304.96,434.71,Middle-Income
+CUST000078,No,0,Master's,Own,12,6,0,453.24,High-Income
+CUST000079,No,0,Bachelor's,Own,19,3,0,659.93,Low-Income
+CUST000080,No,0,PhD,Rent,18,4,0,552.87,High-Income
+CUST000081,Yes,2973.07,Associate,Own,22,9,22531.29,411.41,Middle-Income
+CUST000082,No,0,Associate,Own,29,1,99042.33,359.76,Middle-Income
+CUST000083,Yes,2551.57,PhD,Rent,13,8,41653.69,697.23,High-Income
+CUST000084,No,0,Associate,Rent,27,1,0,706.92,Low-Income
+CUST000085,Yes,2266.08,Associate,Rent,8,10,93723.24,760.36,Middle-Income
+CUST000086,Yes,2618.44,PhD,Rent,1,5,48387.84,422.68,High-Income
+CUST000087,Yes,3213.85,Associate,Own,30,4,91245.02,457.33,Middle-Income
+CUST000088,No,0,Master's,Own,23,5,78212.49,572.82,Low-Income
+CUST000089,No,0,Bachelor's,Own,7,3,0,453.68,Low-Income
+CUST000090,Yes,6950.43,Associate,Rent,3,5,96014.68,455.27,High-Income
+CUST000091,No,0,High School,Rent,24,10,0,362.61,High-Income
+CUST000092,Yes,5566.57,Master's,Own,12,9,81755.99,555.22,Low-Income
+CUST000093,No,0,PhD,Own,10,4,84191.3,538.74,High-Income
+CUST000094,No,0,High School,Own,4,7,56618.16,419.24,Middle-Income
+CUST000095,Yes,673.91,High School,Own,28,8,68213.63,826.38,High-Income
+CUST000096,No,0,Associate,Rent,5,10,0,749.01,High-Income
+CUST000097,No,0,Master's,Own,29,9,96242.5,396.1,Low-Income
+CUST000098,Yes,5833.28,Bachelor's,Rent,15,9,0,450.71,High-Income
+CUST000099,No,0,Associate,Own,16,3,58969.52,519.71,High-Income
+CUST000100,Yes,8294.38,High School,Rent,8,2,44337.23,582.8,Low-Income
+CUST000101,Yes,8958.03,Master's,Rent,13,1,0,818.82,Low-Income
+CUST000102,Yes,5171.22,Associate,Rent,5,3,46260.41,780.14,Middle-Income
+CUST000103,No,0,Associate,Own,30,8,50921.03,533.6,Middle-Income
+CUST000104,Yes,3726.98,PhD,Rent,23,1,84596.06,582.69,Low-Income
+CUST000105,No,0,Associate,Own,8,7,89466.36,348.42,High-Income
+CUST000106,Yes,1917.54,Associate,Own,22,4,99375.8,481.08,Low-Income
+CUST000107,No,0,Bachelor's,Own,19,1,0,702.43,High-Income
+CUST000108,Yes,2726.85,PhD,Own,13,2,0,464.94,Middle-Income
+CUST000109,No,0,Master's,Rent,14,4,0,788.78,Low-Income
+CUST000110,Yes,2165.09,Bachelor's,Own,29,7,0,473.46,Low-Income
+CUST000111,No,0,Associate,Rent,30,6,94665.48,370.32,Low-Income
+CUST000112,No,0,Master's,Rent,4,10,0,622.25,High-Income
+CUST000113,No,0,PhD,Own,25,10,0,781.9,Middle-Income
+CUST000114,Yes,701.1,PhD,Rent,27,1,0,388.83,High-Income
+CUST000115,Yes,5017.45,PhD,Rent,8,7,0,300.43,Middle-Income
+CUST000116,Yes,3290.9,Bachelor's,Own,11,5,29738.73,696.12,Low-Income
+CUST000117,Yes,3178.75,Bachelor's,Own,29,5,95506.78,551.51,Middle-Income
+CUST000118,Yes,9335.1,High School,Rent,12,3,0,627.0,High-Income
+CUST000119,Yes,7830.45,Associate,Rent,30,5,0,362.62,Middle-Income
+CUST000120,No,0,Associate,Own,10,1,36819.6,749.27,Middle-Income
+CUST000121,No,0,Master's,Rent,24,3,71843.18,386.16,High-Income
+CUST000122,No,0,PhD,Rent,22,10,0,522.36,High-Income
+CUST000123,No,0,PhD,Own,23,5,80779.23,756.94,Low-Income
+CUST000124,No,0,PhD,Rent,22,10,0,803.71,Middle-Income
+CUST000125,Yes,1860.32,High School,Own,22,3,0,537.17,High-Income
+CUST000126,Yes,1510.92,Associate,Own,4,3,71730.01,369.15,Middle-Income
+CUST000127,No,0,Master's,Rent,10,5,23044.87,392.72,Low-Income
+CUST000128,No,0,Master's,Own,15,10,93328.05,834.92,Middle-Income
+CUST000129,Yes,4871.59,PhD,Rent,3,6,89454.71,806.95,Middle-Income
+CUST000130,No,0,PhD,Own,19,9,0,336.5,Low-Income
+CUST000131,Yes,1917.28,PhD,Own,13,1,0,473.73,Low-Income
+CUST000132,No,0,Master's,Own,9,9,69752.53,464.6,Middle-Income
+CUST000133,Yes,1403.22,Associate,Rent,28,4,0,766.44,High-Income
+CUST000134,No,0,High School,Rent,17,5,0,662.45,Middle-Income
+CUST000135,Yes,2257.5,High School,Rent,11,2,36646.66,772.02,Low-Income
+CUST000136,Yes,4411.14,PhD,Rent,5,9,68913.02,586.02,Middle-Income
+CUST000137,Yes,5453.49,Associate,Own,19,5,0,729.51,High-Income
+CUST000138,No,0,Master's,Own,15,8,95565.25,782.56,Middle-Income
+CUST000139,Yes,1579.02,Master's,Rent,21,1,0,679.12,High-Income
+CUST000140,No,0,Associate,Own,22,2,0,629.72,Low-Income
+CUST000141,Yes,1060.38,Associate,Rent,30,9,0,642.07,Low-Income
+CUST000142,No,0,High School,Own,2,3,85752.72,407.78,High-Income
+CUST000143,No,0,Associate,Rent,27,6,46990.88,495.62,Middle-Income
+CUST000144,Yes,5002.83,High School,Own,23,10,0,523.2,Middle-Income
+CUST000145,No,0,PhD,Rent,16,3,0,795.67,Low-Income
+CUST000146,No,0,Bachelor's,Rent,27,5,93501.51,347.76,Low-Income
+CUST000147,No,0,Master's,Rent,13,6,56936.12,639.52,Middle-Income
+CUST000148,Yes,7848.56,Bachelor's,Rent,27,1,0,356.51,Middle-Income
+CUST000149,Yes,9883.63,Bachelor's,Own,6,6,56408.82,828.99,Low-Income
+CUST000150,Yes,8244.82,Associate,Rent,8,10,0,732.59,High-Income
+CUST000151,Yes,6243.72,Master's,Own,11,1,0,755.37,High-Income
+CUST000152,Yes,9619.98,Master's,Rent,11,4,0,556.06,Low-Income
+CUST000153,Yes,1579.99,High School,Own,22,4,63662.78,782.37,Low-Income
+CUST000154,No,0,Associate,Own,13,1,0,603.52,High-Income
+CUST000155,Yes,4538.98,Master's,Rent,9,8,0,657.57,High-Income
+CUST000156,Yes,8149.57,Bachelor's,Own,3,9,50429.15,746.94,Middle-Income
+CUST000157,No,0,High School,Rent,28,3,0,534.3,Middle-Income
+CUST000158,No,0,High School,Rent,28,6,92289.85,767.79,Low-Income
+CUST000159,No,0,Associate,Rent,15,7,0,501.66,Middle-Income
+CUST000160,No,0,High School,Own,9,5,94471.01,683.91,Low-Income
+CUST000161,Yes,2441.89,High School,Own,12,6,58680.38,566.79,Low-Income
+CUST000162,No,0,PhD,Rent,21,5,25799.43,501.05,Middle-Income
+CUST000163,No,0,Master's,Own,13,2,98068.3,703.42,Middle-Income
+CUST000164,Yes,4150.48,Master's,Own,7,2,0,485.22,Low-Income
+CUST000165,No,0,High School,Own,1,3,47839.14,696.81,Middle-Income
+CUST000166,Yes,9836.45,Bachelor's,Rent,4,1,0,497.94,High-Income
+CUST000167,No,0,High School,Rent,7,4,36214.84,398.78,Middle-Income
+CUST000168,Yes,7843.88,Bachelor's,Rent,22,5,55235.32,731.28,Middle-Income
+CUST000169,No,0,Master's,Own,20,4,71560.51,411.02,Low-Income
+CUST000170,No,0,Master's,Rent,27,9,55148.28,744.47,Middle-Income
+CUST000171,No,0,Bachelor's,Own,1,5,97558.86,690.87,Low-Income
+CUST000172,Yes,6351.45,Bachelor's,Rent,17,5,0,783.71,Middle-Income
+CUST000173,Yes,5830.53,High School,Rent,16,1,38101.35,539.39,Low-Income
+CUST000174,Yes,5409.28,Bachelor's,Own,22,3,58205.66,589.64,High-Income
+CUST000175,Yes,6637.77,PhD,Own,19,4,0,483.64,Low-Income
+CUST000176,Yes,9710.27,Associate,Own,1,9,71357.74,803.61,High-Income
+CUST000177,No,0,Master's,Own,6,7,79416.39,568.91,Low-Income
+CUST000178,Yes,5117.67,High School,Own,30,10,0,826.14,Middle-Income
+CUST000179,No,0,PhD,Own,18,8,67821.4,830.35,High-Income
+CUST000180,Yes,3900.27,Bachelor's,Own,19,7,47754.03,637.87,Low-Income
+CUST000181,No,0,Master's,Rent,14,1,65206.23,581.81,Low-Income
+CUST000182,Yes,9977.72,PhD,Own,19,5,0,397.91,High-Income
+CUST000183,Yes,3889.28,Bachelor's,Own,23,6,32478.93,515.63,Middle-Income
+CUST000184,No,0,Master's,Rent,7,4,0,325.95,Middle-Income
+CUST000185,Yes,3087.78,PhD,Rent,19,3,87953.2,691.86,Low-Income
+CUST000186,No,0,Master's,Own,6,10,0,669.05,Middle-Income
+CUST000187,No,0,Bachelor's,Rent,28,4,48269.43,744.69,Low-Income
+CUST000188,Yes,5797.21,PhD,Rent,12,9,0,688.41,Middle-Income
+CUST000189,Yes,3191.23,Master's,Rent,6,8,27844.06,465.18,High-Income
+CUST000190,Yes,6887.13,Bachelor's,Own,3,7,0,425.87,Middle-Income
+CUST000191,Yes,2170.61,Associate,Own,8,3,0,571.57,Low-Income
+CUST000192,No,0,Associate,Rent,8,1,0,811.59,Middle-Income
+CUST000193,Yes,4378.51,PhD,Own,19,4,0,800.03,Low-Income
+CUST000194,No,0,High School,Own,25,9,81442.4,691.8,Middle-Income
+CUST000195,Yes,5103.96,PhD,Rent,16,4,0,539.81,High-Income
+CUST000196,No,0,Master's,Rent,14,8,0,524.3,Middle-Income
+CUST000197,No,0,High School,Own,30,2,0,673.59,Middle-Income
+CUST000198,No,0,Bachelor's,Rent,4,10,23121.71,800.75,Middle-Income
+CUST000199,Yes,619.34,Bachelor's,Own,4,7,0,601.39,High-Income
+CUST000200,No,0,Bachelor's,Rent,28,7,59224.49,445.42,Low-Income
+CUST000201,No,0,Associate,Rent,19,10,85399.27,340.01,Middle-Income
+CUST000202,Yes,5696.04,PhD,Rent,24,10,89590.55,334.95,Low-Income
+CUST000203,Yes,6328.41,Bachelor's,Own,11,9,0,540.53,High-Income
+CUST000204,No,0,Master's,Rent,14,3,54614.19,767.71,Middle-Income
+CUST000205,Yes,174.59,Associate,Rent,4,9,0,783.14,Low-Income
+CUST000206,Yes,3643.41,PhD,Own,9,5,0,313.14,High-Income
+CUST000207,No,0,Bachelor's,Own,19,9,0,481.86,High-Income
+CUST000208,Yes,8422.17,Bachelor's,Rent,8,9,97074.62,847.7,Low-Income
+CUST000209,No,0,PhD,Rent,13,9,81955.92,418.85,High-Income
+CUST000210,Yes,5265.02,PhD,Rent,12,10,40271.86,846.77,Low-Income
+CUST000211,No,0,Associate,Rent,7,1,22741.68,477.48,High-Income
+CUST000212,No,0,Bachelor's,Own,9,1,0,456.09,High-Income
+CUST000213,No,0,Bachelor's,Own,8,8,0,601.01,Low-Income
+CUST000214,No,0,High School,Rent,30,3,0,619.82,Middle-Income
+CUST000215,Yes,6646.06,Associate,Rent,28,9,0,652.48,Low-Income
+CUST000216,Yes,9358.1,Master's,Rent,5,8,34308.63,786.95,Middle-Income
+CUST000217,Yes,9205.37,High School,Rent,8,10,0,419.55,Low-Income
+CUST000218,Yes,1770.72,Master's,Rent,28,9,22467.37,363.34,Low-Income
+CUST000219,Yes,1185.47,Bachelor's,Own,15,6,36749.12,719.84,Middle-Income
+CUST000220,Yes,8820.94,Associate,Own,7,2,82310.36,807.65,High-Income
+CUST000221,No,0,High School,Rent,5,9,0,669.39,High-Income
+CUST000222,No,0,Associate,Rent,19,10,96559.21,773.67,Middle-Income
+CUST000223,No,0,High School,Own,27,5,91784.88,702.06,High-Income
+CUST000224,No,0,High School,Rent,30,8,0,583.65,Middle-Income
+CUST000225,No,0,High School,Rent,7,7,0,426.54,Low-Income
+CUST000226,No,0,High School,Own,25,2,0,509.52,Middle-Income
+CUST000227,No,0,Bachelor's,Rent,10,8,76532.24,828.73,High-Income
+CUST000228,No,0,Associate,Own,2,8,27544.9,581.14,Middle-Income
+CUST000229,Yes,5524.73,Master's,Own,28,2,67382.21,342.7,Low-Income
+CUST000230,Yes,1983.51,Master's,Own,24,10,37472.7,693.38,Middle-Income
+CUST000231,No,0,PhD,Rent,15,3,0,725.72,High-Income
+CUST000232,Yes,8088.17,Bachelor's,Own,27,2,37496.61,420.02,Middle-Income
+CUST000233,Yes,7633.29,Bachelor's,Rent,24,8,44549.49,809.18,Low-Income
+CUST000234,No,0,Master's,Rent,4,7,64900.28,376.63,Low-Income
+CUST000235,No,0,High School,Rent,5,3,99459.02,807.47,Middle-Income
+CUST000236,No,0,High School,Rent,21,2,76810.49,739.88,High-Income
+CUST000237,No,0,Associate,Rent,24,1,40931.97,432.91,Low-Income
+CUST000238,No,0,High School,Own,18,10,0,764.92,Low-Income
+CUST000239,Yes,4873.93,Associate,Own,28,7,61505.66,497.57,Middle-Income
+CUST000240,Yes,7899.74,PhD,Rent,10,8,0,638.17,Middle-Income
+CUST000241,Yes,6371.78,Master's,Own,2,9,78495.8,835.31,Low-Income
+CUST000242,No,0,Bachelor's,Own,19,7,0,377.38,Low-Income
+CUST000243,No,0,Master's,Own,24,2,79230.1,340.51,Low-Income
+CUST000244,No,0,High School,Rent,7,9,0,590.81,Low-Income
+CUST000245,Yes,1738.33,Associate,Rent,21,1,70344.61,336.8,High-Income
+CUST000246,Yes,1747.32,Associate,Rent,8,6,49652.77,412.44,Low-Income
+CUST000247,No,0,Bachelor's,Rent,4,7,79784.06,479.16,Low-Income
+CUST000248,Yes,6427.81,Bachelor's,Own,30,3,95407.46,342.67,Middle-Income
+CUST000249,No,0,Associate,Rent,14,7,0,466.03,Low-Income
+CUST000250,No,0,Master's,Rent,1,5,0,676.23,Middle-Income
+CUST000251,Yes,602.31,Bachelor's,Own,8,3,0,627.62,Middle-Income
+CUST000252,No,0,Bachelor's,Own,5,8,0,335.75,High-Income
+CUST000253,Yes,8918.95,High School,Rent,2,1,0,428.59,Low-Income
+CUST000254,Yes,8709.27,Master's,Rent,9,7,75356.45,553.18,Middle-Income
+CUST000255,Yes,8991.64,Master's,Own,11,3,30833.83,690.62,High-Income
+CUST000256,No,0,High School,Own,3,10,0,575.33,Middle-Income
+CUST000257,Yes,3479.67,Associate,Own,25,5,0,616.18,Middle-Income
+CUST000258,Yes,5033.32,PhD,Rent,4,8,0,514.48,Middle-Income
+CUST000259,No,0,High School,Own,13,8,53871.94,656.28,High-Income
+CUST000260,No,0,Bachelor's,Own,26,3,67176.97,550.37,High-Income
+CUST000261,Yes,3646.18,Bachelor's,Own,26,8,58585.07,304.72,High-Income
+CUST000262,No,0,Master's,Rent,20,3,59952.06,381.87,Low-Income
+CUST000263,Yes,8434.1,Master's,Own,22,1,99657.31,455.22,Middle-Income
+CUST000264,No,0,Bachelor's,Own,29,10,0,766.26,High-Income
+CUST000265,No,0,Master's,Own,11,4,0,719.18,Middle-Income
+CUST000266,No,0,Associate,Own,3,1,0,702.39,Middle-Income
+CUST000267,No,0,PhD,Own,19,5,87500.79,560.67,High-Income
+CUST000268,No,0,High School,Rent,17,10,0,827.16,High-Income
+CUST000269,Yes,4023.63,Master's,Own,21,3,0,328.3,Low-Income
+CUST000270,No,0,High School,Rent,5,8,0,389.77,Middle-Income
+CUST000271,No,0,Bachelor's,Rent,17,7,66537.8,747.01,High-Income
+CUST000272,No,0,Bachelor's,Rent,7,1,0,361.68,High-Income
+CUST000273,Yes,3473.53,High School,Own,12,8,0,618.11,High-Income
+CUST000274,No,0,Bachelor's,Own,27,10,0,835.77,Middle-Income
+CUST000275,Yes,4954.63,Associate,Own,25,8,66487.68,601.28,Middle-Income
+CUST000276,Yes,2296.59,High School,Rent,22,7,0,814.99,Middle-Income
+CUST000277,Yes,7174.01,PhD,Rent,26,7,68952.6,837.46,High-Income
+CUST000278,Yes,8186.96,PhD,Rent,3,2,0,843.49,Middle-Income
+CUST000279,No,0,Master's,Rent,22,3,72618.15,710.94,High-Income
+CUST000280,Yes,2463.24,Associate,Own,24,2,38633.97,514.48,Middle-Income
+CUST000281,No,0,Master's,Rent,8,5,0,417.48,Middle-Income
+CUST000282,No,0,Bachelor's,Rent,27,8,0,529.07,Low-Income
+CUST000283,No,0,High School,Rent,18,6,0,781.54,Middle-Income
+CUST000284,No,0,High School,Rent,24,3,0,700.54,Middle-Income
+CUST000285,Yes,6862.25,Bachelor's,Rent,22,1,0,805.35,Low-Income
+CUST000286,Yes,9720.54,High School,Rent,28,7,29322.48,405.9,High-Income
+CUST000287,No,0,High School,Rent,27,2,0,646.06,High-Income
+CUST000288,No,0,Bachelor's,Own,27,3,0,558.48,Middle-Income
+CUST000289,No,0,Associate,Rent,27,4,78878.31,706.93,High-Income
+CUST000290,No,0,High School,Own,17,10,86933.21,503.14,Low-Income
+CUST000291,No,0,Associate,Rent,23,1,0,822.8,High-Income
+CUST000292,Yes,7454.79,Master's,Rent,19,2,38586.09,443.68,Low-Income
+CUST000293,No,0,Bachelor's,Rent,14,5,0,673.94,Middle-Income
+CUST000294,Yes,7849.3,High School,Rent,18,1,0,330.2,Middle-Income
+CUST000295,No,0,Bachelor's,Rent,10,6,32367.92,484.32,Middle-Income
+CUST000296,Yes,3138.5,Bachelor's,Rent,27,7,0,487.66,Low-Income
+CUST000297,No,0,Bachelor's,Own,1,6,0,579.61,High-Income
+CUST000298,Yes,2290.68,Master's,Own,29,10,0,413.61,Low-Income
+CUST000299,No,0,Associate,Rent,20,5,86876.89,325.77,Middle-Income
+CUST000300,No,0,PhD,Own,3,5,59631.61,555.92,Middle-Income
+CUST000301,No,0,Master's,Rent,16,5,49930.45,363.48,Middle-Income
+CUST000302,Yes,9181.36,Associate,Own,12,6,62150.16,718.68,Low-Income
+CUST000303,No,0,Associate,Rent,29,7,0,744.41,Middle-Income
+CUST000304,Yes,3906.08,PhD,Rent,27,2,0,357.46,High-Income
+CUST000305,No,0,PhD,Rent,27,6,0,306.32,High-Income
+CUST000306,No,0,Associate,Own,30,2,0,765.37,Middle-Income
+CUST000307,No,0,Bachelor's,Rent,3,4,0,398.94,High-Income
+CUST000308,Yes,2756.74,Bachelor's,Rent,13,1,0,332.76,Middle-Income
+CUST000309,No,0,High School,Rent,8,2,0,763.44,High-Income
+CUST000310,No,0,Bachelor's,Own,21,5,20021.49,427.55,High-Income
+CUST000311,Yes,7613.04,Associate,Rent,30,1,0,802.84,Middle-Income
+CUST000312,Yes,5265.54,PhD,Rent,29,7,90708.82,680.92,Middle-Income
+CUST000313,Yes,9031.05,Master's,Own,1,10,0,737.86,Middle-Income
+CUST000314,No,0,PhD,Rent,2,3,97772.71,836.63,Low-Income
+CUST000315,No,0,High School,Own,10,3,0,667.26,High-Income
+CUST000316,No,0,High School,Rent,21,4,93500.8,771.34,Low-Income
+CUST000317,No,0,Master's,Rent,15,1,50314.17,844.59,High-Income
+CUST000318,Yes,9756.74,Bachelor's,Own,22,4,50783.42,797.45,Low-Income
+CUST000319,Yes,5015.99,Master's,Own,25,1,51102.93,376.41,High-Income
+CUST000320,Yes,6573.39,Bachelor's,Rent,23,10,0,635.53,Middle-Income
+CUST000321,No,0,PhD,Own,17,5,47320.41,343.54,Middle-Income
+CUST000322,No,0,Associate,Own,8,4,0,716.03,High-Income
+CUST000323,No,0,PhD,Rent,20,9,0,515.56,Middle-Income
+CUST000324,Yes,2197.93,High School,Rent,4,1,0,523.3,Low-Income
+CUST000325,No,0,PhD,Own,7,3,68087.07,544.08,Middle-Income
+CUST000326,No,0,Master's,Rent,1,10,0,607.22,Low-Income
+CUST000327,Yes,8572.4,Bachelor's,Own,17,5,63173.45,525.17,Middle-Income
+CUST000328,Yes,2189.45,High School,Rent,17,1,77130.58,332.6,Middle-Income
+CUST000329,No,0,High School,Rent,13,10,0,300.49,Middle-Income
+CUST000330,No,0,Bachelor's,Own,17,9,0,545.1,Middle-Income
+CUST000331,Yes,9488.1,Bachelor's,Own,16,9,0,774.35,Low-Income
+CUST000332,No,0,PhD,Own,20,10,44842.07,532.3,Low-Income
+CUST000333,No,0,Associate,Rent,17,4,31588.86,757.35,Low-Income
+CUST000334,Yes,9644.14,Associate,Rent,20,6,26059.51,500.71,Middle-Income
+CUST000335,Yes,5210.24,Associate,Own,10,6,99219.49,331.38,Middle-Income
+CUST000336,Yes,6037.95,Associate,Rent,5,9,0,409.4,Low-Income
+CUST000337,Yes,8218.63,Associate,Rent,25,7,30833.34,720.24,High-Income
+CUST000338,Yes,8649.83,Bachelor's,Own,8,1,0,317.49,Low-Income
+CUST000339,No,0,High School,Own,14,9,0,403.03,Low-Income
+CUST000340,No,0,Bachelor's,Own,14,8,72748.28,529.19,Low-Income
+CUST000341,No,0,High School,Own,7,8,24732.58,618.51,High-Income
+CUST000342,No,0,High School,Own,11,6,21504.11,756.97,Middle-Income
+CUST000343,Yes,8727.82,Associate,Rent,7,3,20613.96,326.84,High-Income
+CUST000344,Yes,1581.34,Associate,Own,22,9,0,562.02,Middle-Income
+CUST000345,No,0,Bachelor's,Own,5,9,25080.35,576.98,Middle-Income
+CUST000346,Yes,1040.28,High School,Own,19,6,87668.08,352.37,High-Income
+CUST000347,No,0,High School,Rent,23,3,0,546.33,Middle-Income
+CUST000348,No,0,High School,Rent,2,9,93739.75,801.08,Low-Income
+CUST000349,Yes,4194.44,PhD,Own,15,1,59320.51,469.01,High-Income
+CUST000350,Yes,3649.85,Bachelor's,Own,15,2,0,392.83,High-Income
+CUST000351,No,0,PhD,Own,1,2,0,715.4,Low-Income
+CUST000352,Yes,3466.85,Bachelor's,Rent,12,8,0,611.55,High-Income
+CUST000353,No,0,High School,Rent,23,5,0,345.46,Low-Income
+CUST000354,No,0,Bachelor's,Rent,16,4,0,675.89,Middle-Income
+CUST000355,Yes,868.57,Associate,Own,3,5,35754.31,418.35,High-Income
+CUST000356,No,0,PhD,Own,27,6,83824.49,463.64,High-Income
+CUST000357,Yes,8540.12,Associate,Own,18,5,0,382.2,Middle-Income
+CUST000358,No,0,PhD,Rent,19,3,0,775.75,High-Income
+CUST000359,No,0,High School,Own,28,10,78619.84,559.07,High-Income
+CUST000360,Yes,672.63,Master's,Own,10,1,0,339.02,High-Income
+CUST000361,No,0,High School,Rent,27,9,0,471.14,High-Income
+CUST000362,Yes,1603.2,Bachelor's,Own,26,4,94996.79,690.8,High-Income
+CUST000363,Yes,398.89,Master's,Own,5,6,0,733.47,High-Income
+CUST000364,No,0,Bachelor's,Rent,3,1,0,488.81,Low-Income
+CUST000365,No,0,Master's,Rent,30,7,0,335.05,Middle-Income
+CUST000366,Yes,1527.15,Master's,Own,25,4,0,728.13,Middle-Income
+CUST000367,No,0,Bachelor's,Own,12,1,25734.03,839.62,High-Income
+CUST000368,Yes,8262.13,Master's,Own,9,9,0,841.39,High-Income
+CUST000369,No,0,Master's,Rent,14,9,48098.11,640.43,Low-Income
+CUST000370,No,0,Master's,Own,26,3,0,547.6,Middle-Income
+CUST000371,No,0,Bachelor's,Own,6,8,52423.86,375.74,High-Income
+CUST000372,Yes,7770.61,PhD,Own,8,4,96133.17,606.81,Middle-Income
+CUST000373,Yes,2252.67,Bachelor's,Rent,26,2,0,561.26,Low-Income
+CUST000374,No,0,Associate,Rent,12,3,65848.76,573.86,Low-Income
+CUST000375,Yes,7939.96,High School,Rent,18,9,0,678.55,Middle-Income
+CUST000376,Yes,5728.53,PhD,Rent,17,9,0,414.34,Middle-Income
+CUST000377,No,0,PhD,Rent,4,9,0,669.48,Low-Income
+CUST000378,Yes,4330.68,Bachelor's,Own,28,6,74311.12,659.11,Middle-Income
+CUST000379,No,0,Bachelor's,Own,17,5,86663.26,607.33,Middle-Income
+CUST000380,Yes,2364.24,Associate,Rent,19,1,0,784.65,Low-Income
+CUST000381,No,0,Master's,Own,22,10,0,802.63,High-Income
+CUST000382,No,0,High School,Own,29,8,61694.3,344.62,Middle-Income
+CUST000383,No,0,Bachelor's,Own,20,9,47189.9,312.24,High-Income
+CUST000384,No,0,Master's,Rent,12,10,78992.79,746.64,Low-Income
+CUST000385,Yes,5280.08,Master's,Rent,25,5,79250.99,496.95,Low-Income
+CUST000386,No,0,High School,Rent,26,10,55251.48,579.24,Low-Income
+CUST000387,No,0,Associate,Own,25,6,0,316.74,Middle-Income
+CUST000388,No,0,Bachelor's,Rent,14,7,0,732.51,Low-Income
+CUST000389,Yes,104.29,High School,Own,10,1,0,477.18,Low-Income
+CUST000390,Yes,4846.7,High School,Own,28,9,0,747.01,High-Income
+CUST000391,No,0,Bachelor's,Rent,7,5,0,431.35,High-Income
+CUST000392,Yes,3942.19,High School,Own,10,10,90978.94,838.96,Middle-Income
+CUST000393,Yes,3429.45,Bachelor's,Rent,3,1,91570.19,346.25,Low-Income
+CUST000394,Yes,8946.41,PhD,Rent,1,2,0,773.8,Low-Income
+CUST000395,No,0,High School,Own,18,5,54784.29,338.74,Middle-Income
+CUST000396,No,0,Bachelor's,Rent,15,8,0,683.54,Low-Income
+CUST000397,No,0,Associate,Rent,19,9,0,512.81,Low-Income
+CUST000398,Yes,2762.62,Bachelor's,Rent,13,1,0,369.08,Middle-Income
+CUST000399,No,0,High School,Rent,15,2,0,313.54,Middle-Income
+CUST000400,Yes,9020.53,Associate,Own,16,10,44174.07,478.3,High-Income
+CUST000401,No,0,Master's,Own,10,3,0,650.31,Low-Income
+CUST000402,Yes,4507.08,Associate,Own,29,10,49829.45,311.32,Low-Income
+CUST000403,Yes,5843.2,Bachelor's,Rent,22,7,0,792.97,Low-Income
+CUST000404,Yes,9266.82,Master's,Own,30,4,23273.97,478.46,Middle-Income
+CUST000405,No,0,PhD,Rent,1,5,82750.12,443.5,High-Income
+CUST000406,Yes,2237.44,PhD,Rent,6,4,39584.53,789.41,Middle-Income
+CUST000407,Yes,5549.53,Bachelor's,Own,13,8,0,763.42,High-Income
+CUST000408,No,0,Associate,Rent,9,6,53912.29,626.88,Middle-Income
+CUST000409,Yes,9062.55,Master's,Rent,8,4,0,336.51,High-Income
+CUST000410,Yes,5387.55,Associate,Own,16,7,41520.58,747.08,High-Income
+CUST000411,Yes,7041.27,Associate,Own,12,3,0,779.97,High-Income
+CUST000412,Yes,9587.96,High School,Own,9,6,45343.36,340.49,Middle-Income
+CUST000413,No,0,PhD,Rent,2,3,54298.25,439.29,Middle-Income
+CUST000414,No,0,High School,Rent,2,7,0,352.06,Low-Income
+CUST000415,No,0,High School,Rent,22,8,0,492.74,High-Income
+CUST000416,Yes,285.69,Master's,Own,27,9,0,427.02,Low-Income
+CUST000417,Yes,9837.78,High School,Rent,12,3,0,483.95,Middle-Income
+CUST000418,Yes,8579.53,Bachelor's,Own,27,1,0,810.5,Low-Income
+CUST000419,No,0,PhD,Rent,30,4,0,594.61,Middle-Income
+CUST000420,Yes,8999.04,PhD,Rent,25,4,0,740.9,Low-Income
+CUST000421,Yes,6539.35,Associate,Own,18,5,0,613.6,High-Income
+CUST000422,No,0,PhD,Rent,18,8,36436.62,574.5,High-Income
+CUST000423,Yes,1878.98,PhD,Rent,10,7,82889.87,674.39,High-Income
+CUST000424,No,0,PhD,Own,21,8,0,786.55,Low-Income
+CUST000425,Yes,9853.92,High School,Rent,30,5,78268.48,766.79,High-Income
+CUST000426,Yes,7326.98,High School,Own,29,2,56034.85,545.37,Middle-Income
+CUST000427,No,0,High School,Rent,6,1,53021.98,312.69,Middle-Income
+CUST000428,No,0,Associate,Own,1,10,0,441.63,High-Income
+CUST000429,Yes,5415.42,High School,Rent,11,10,39889.09,324.5,Low-Income
+CUST000430,Yes,8009.56,High School,Rent,12,4,95161.42,340.12,High-Income
+CUST000431,Yes,7305.85,Associate,Own,30,6,53908.17,338.84,Middle-Income
+CUST000432,No,0,High School,Rent,5,4,0,389.91,Low-Income
+CUST000433,Yes,4526.94,Bachelor's,Own,25,9,0,726.42,Middle-Income
+CUST000434,Yes,6677.91,High School,Rent,10,1,0,390.8,Middle-Income
+CUST000435,No,0,PhD,Rent,21,4,91303.97,836.46,Low-Income
+CUST000436,No,0,Master's,Own,30,4,95033.48,580.81,High-Income
+CUST000437,Yes,4927.31,High School,Own,1,2,0,848.03,Low-Income
+CUST000438,Yes,8384.22,PhD,Rent,26,2,0,685.06,Middle-Income
+CUST000439,Yes,7524.47,Associate,Own,30,10,0,405.3,High-Income
+CUST000440,Yes,552.51,Bachelor's,Rent,24,7,0,540.9,High-Income
+CUST000441,No,0,PhD,Own,22,6,0,661.89,High-Income
+CUST000442,No,0,Bachelor's,Rent,8,6,0,707.78,Low-Income
+CUST000443,No,0,PhD,Own,17,10,0,777.37,High-Income
+CUST000444,No,0,Associate,Own,17,8,0,368.51,High-Income
+CUST000445,Yes,9201.0,PhD,Rent,16,1,36867.03,628.53,Low-Income
+CUST000446,No,0,PhD,Rent,8,6,49945.11,630.3,Low-Income
+CUST000447,No,0,Master's,Rent,28,3,24489.74,699.75,Low-Income
+CUST000448,Yes,7549.15,Associate,Rent,29,8,58794.86,682.65,Middle-Income
+CUST000449,No,0,PhD,Own,30,8,0,705.37,Low-Income
+CUST000450,No,0,PhD,Rent,10,8,0,399.34,Low-Income
+CUST000451,Yes,2477.12,Master's,Own,2,10,0,693.64,Low-Income
+CUST000452,No,0,PhD,Rent,8,10,0,844.32,High-Income
+CUST000453,No,0,Bachelor's,Own,17,6,0,440.84,High-Income
+CUST000454,Yes,5195.45,Bachelor's,Own,15,4,84587.37,807.66,High-Income
+CUST000455,No,0,High School,Rent,22,2,59528.73,424.61,High-Income
+CUST000456,No,0,Associate,Rent,14,2,69955.97,580.85,Middle-Income
+CUST000457,No,0,High School,Rent,16,5,66726.2,447.12,High-Income
+CUST000458,No,0,Bachelor's,Rent,23,6,32575.77,666.51,High-Income
+CUST000459,No,0,PhD,Rent,2,7,54604.03,652.88,Middle-Income
+CUST000460,No,0,PhD,Rent,8,9,27029.88,822.96,Low-Income
+CUST000461,Yes,7952.31,Associate,Own,20,9,0,738.63,Low-Income
+CUST000462,No,0,Bachelor's,Rent,21,2,0,830.61,Low-Income
+CUST000463,Yes,1924.26,High School,Rent,14,3,0,586.37,Low-Income
+CUST000464,No,0,PhD,Own,17,6,0,688.87,Low-Income
+CUST000465,No,0,Master's,Rent,18,3,78742.02,685.15,Middle-Income
+CUST000466,Yes,7029.13,PhD,Rent,28,1,61187.07,461.42,Low-Income
+CUST000467,No,0,Associate,Rent,19,6,77273.31,695.91,High-Income
+CUST000468,Yes,7369.09,High School,Rent,22,8,25299.74,499.07,Low-Income
+CUST000469,No,0,Bachelor's,Own,9,7,0,472.53,Low-Income
+CUST000470,No,0,High School,Rent,10,4,0,725.39,Middle-Income
+CUST000471,Yes,7617.44,Associate,Own,8,9,0,776.73,High-Income
+CUST000472,No,0,High School,Own,12,10,0,668.29,High-Income
+CUST000473,Yes,1884.93,Associate,Rent,12,4,0,331.83,Low-Income
+CUST000474,Yes,7851.96,High School,Rent,29,4,0,634.32,High-Income
+CUST000475,No,0,Associate,Own,16,2,64068.2,825.07,Middle-Income
+CUST000476,No,0,High School,Own,16,6,0,706.17,Low-Income
+CUST000477,Yes,7110.9,Bachelor's,Rent,13,9,0,549.7,Low-Income
+CUST000478,No,0,Bachelor's,Rent,24,3,40880.78,837.0,High-Income
+CUST000479,Yes,5872.06,Associate,Own,30,9,0,585.33,Middle-Income
+CUST000480,Yes,5496.82,Associate,Rent,13,8,0,563.9,Middle-Income
+CUST000481,No,0,High School,Own,2,7,63128.97,640.29,Low-Income
+CUST000482,No,0,PhD,Own,6,3,0,414.81,Middle-Income
+CUST000483,No,0,Associate,Rent,15,5,0,366.25,Middle-Income
+CUST000484,No,0,High School,Own,16,9,60374.91,370.51,Middle-Income
+CUST000485,No,0,High School,Rent,29,8,0,632.71,Low-Income
+CUST000486,Yes,2932.63,Master's,Own,25,8,0,642.16,Middle-Income
+CUST000487,No,0,High School,Own,4,1,34001.0,312.88,Middle-Income
+CUST000488,No,0,Master's,Own,18,1,0,347.39,Middle-Income
+CUST000489,Yes,9278.61,Master's,Rent,7,9,35012.91,590.39,Low-Income
+CUST000490,No,0,Bachelor's,Rent,30,3,75400.91,769.52,Low-Income
+CUST000491,Yes,3973.64,Associate,Own,28,6,25342.21,737.79,Low-Income
+CUST000492,No,0,Associate,Own,7,3,45100.08,627.2,High-Income
+CUST000493,Yes,4968.37,High School,Rent,24,2,64695.13,704.06,High-Income
+CUST000494,No,0,Bachelor's,Own,15,8,0,621.2,Low-Income
+CUST000495,No,0,Bachelor's,Own,11,5,0,302.81,High-Income
+CUST000496,Yes,3979.59,Master's,Own,30,9,0,311.99,High-Income
+CUST000497,Yes,2558.29,Master's,Own,4,6,0,364.13,Middle-Income
+CUST000498,Yes,9934.2,Bachelor's,Own,20,3,74662.74,724.83,Low-Income
+CUST000499,No,0,High School,Own,19,1,0,826.42,Middle-Income
+CUST000500,Yes,622.0,Bachelor's,Own,2,3,0,422.2,High-Income
